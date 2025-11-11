@@ -8,6 +8,7 @@ int main() {
   std::cin >> a;
   std::cin >> b;
   std::cin >> c;
+  // std::cin >> b >> c;
 
   std::cin >> s;
 
