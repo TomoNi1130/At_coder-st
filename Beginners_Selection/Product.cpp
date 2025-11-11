@@ -8,4 +8,6 @@ int main() {
     std::cout << "Even" << std::endl;
   else
     std::cout << "Odd" << std::endl;
+
+  return 0;
 }

@@ -11,4 +11,6 @@ int main() {
       marbles++;
   }
   std::cout << marbles << std::endl;
+
+  return 0;
 }
